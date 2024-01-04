@@ -1,7 +1,7 @@
 
 
 
-## New Word Generator 📚✨
+## New Word Generator 📚✨[![Live Demo](https://img.shields.io/badge/)]((https://arthini.github.io/New-Word-Generator/)
 
 Welcome to Learn-New, your gateway to expanding your vocabulary in a fun and captivating way! 🚀
 
