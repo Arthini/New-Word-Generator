@@ -30,14 +30,16 @@ body{
     
 }
 .words{
-    width: 50%;
-    height: 60%;
+    width: 605px;
+    height: 350px;
     margin: auto;
     background-color: azure;
     border-radius: 30px;
 }
 .text{
-    padding: 5%;
+    padding: 5% 5% 0 5%;
+    /* background-color: aqua; */
+    height: 270px;
 }
 .text h2{
     text-align: center;
@@ -45,7 +47,10 @@ body{
     padding-bottom: 3%;
     text-transform: uppercase;
 }
-#meaning{
+.text h3{
+    font-size: 22px;
+}
+.meaning{
     padding:2% 5%;
 }
 .text h4{
@@ -58,10 +63,11 @@ hr{
     color:grey;
     height: 2px;
     background-color: rgb(190, 187, 187);
+    position: relative;
     
 }
 .features{
-    padding: 3% 0;
+    padding:  3% 5% ;
     display: flex;
     justify-content: space-between;
 }
@@ -85,7 +91,7 @@ ul li{
 }
 
 button{
-    background-color: green;
+    background-color: rgb(40, 137, 40);
     border-radius: 10px;
     padding: 3px;
     font-size: 1rem;
@@ -95,4 +101,8 @@ button{
 button:hover{
     background-color: #192655;
     
+}
+.highlight {
+    color: red; /* Change the color to your desired highlight color */
+    font-weight: bold; /* Optionally, you can make the text bold */
 }
