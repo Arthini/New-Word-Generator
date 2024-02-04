@@ -106,3 +106,32 @@ button:hover{
     color: red; /* Change the color to your desired highlight color */
     font-weight: bold; /* Optionally, you can make the text bold */
 }
+@media screen and (max-width: 768px) {
+    .container {
+      padding: 0 20px; /* Adjust container padding for smaller screens */
+    }
+  
+    .words {
+        margin: 20% 0;
+      width: 100%; 
+      max-width: 100%; 
+      height: auto; 
+      border-radius:30px; 
+    }
+  
+    
+  }
+  @media screen and (max-width: 552px) {
+    .container {
+        padding: 0 20px; 
+      }
+    
+      .words {
+          margin: 20% 0;
+        width: 100%; 
+        max-width: 100%; 
+        height: auto; 
+        border-radius:30px; 
+      }
+     
+    }
