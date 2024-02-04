@@ -1,7 +1,7 @@
 const newWords=[{
     word:`Mellifluous`,
     meaning:`Pleasingly smooth and musical; pleasant to hear`,
-    example:`The singer's mellifluous voice captivated the audience, creating a serene atmosphere in the auditorium.`
+    example:`The pianist's mellifluous melodies enchanted the audience.`
 },{
     word:`Tranquil`,
     meaning:`--Calm and peaceful`,
