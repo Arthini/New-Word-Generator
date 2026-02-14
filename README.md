@@ -32,6 +32,4 @@ Ready to embark on a journey of words? Click **"Next Up"** and let the learning 
 
 ---
 
-### Live Demo
-[Click Here](https://arthini.github.io/New-Word-Generator/)
 
